@@ -1,1 +1,8 @@
-# AI를 위한 딥러닝 강의 레포지토리
+# Repository for AI4DL class
+
+### Author: Donggoo Kwon
+
+### Folders
+- week[1-6]: Exercise notebooks for corresponding weeks
+- practice: Random practice codes
+- etc: anything interesting
